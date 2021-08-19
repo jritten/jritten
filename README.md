@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[@jritten's](https://www.linkedin.com/in/jritten/) [Resume](http://ibm.biz/jritten-resume)
+[@jritten's](jritten.github.io/portfolio) [Resume](http://ibm.biz/jritten-resume)
 <!--
 **jritten/jritten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
