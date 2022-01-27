@@ -8,7 +8,7 @@
 
 - 💬 How to reach me: https://linktr.ee/jritten
 - 🌱 Pronouns: she/her
-- ⚡ Quirk: I LOVE tuna sandwiches and tiny dogs! So if you have any fantastic recommendations, please send them my way!
+- ⚡ Quirk: I LOVE tuna sandwiches and tiny dogs, so if you have any fantastic recommendations, please send them my way!
 
 <!--
 **jritten/jritten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
