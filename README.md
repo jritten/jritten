@@ -4,6 +4,12 @@
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Portfolio](https://jritten.github.io/portfolio)
 
+[@jritten's](https://www.linkedin.com/in/jritten) [Super Bootcamp Starter-Kit](https://github.com/jritten/beyond-bootcamp)
+
+- 💬 How to reach me: https://linktr.ee/jritten
+- 🌱 Pronouns: she/her
+- ⚡ Quirk: I LOVE tuna sandwiches and tiny dogs! So if you have any fantastic recommendations, please send them my way!
+
 <!--
 **jritten/jritten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
