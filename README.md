@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![IBM Hacktoberfest 2024 Badge](ibmhacktoberfest2024.svg)
+
 [@jritten's](https://www.linkedin.com/in/jritten) [Resume](http://ibm.biz/jritten-resume)
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Portfolio](https://jritten.github.io/portfolio)
