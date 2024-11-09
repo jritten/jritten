@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![<img src="ibmhacktoberfest2024.svg" width="200px"/>](ibmhacktoberfest2024.svg)
+<img src="ibmhacktoberfest2024.svg" width="200">
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Resume](http://ibm.biz/jritten-resume)
 
