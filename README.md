@@ -1,13 +1,15 @@
-### Hi there 👋
-
 [IBM Hacktoberfest 2024 Badge]: #
 <img src="ibmhacktoberfest2024.svg" width="200">
+
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Resume](http://ibm.biz/jritten-resume)
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Portfolio](https://jritten.github.io/portfolio)
 
 [@jritten's](https://www.linkedin.com/in/jritten) [Super Bootcamp Starter-Kit](https://github.com/jritten/beyond-bootcamp)
+
+
+### Hi there 👋
 
 - 💬 How to reach me: https://linktr.ee/jritten
 - 🌱 Pronouns: she/her
